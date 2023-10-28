@@ -2,7 +2,7 @@
 
 ## Regression with a Crab Age Dataset
 ### Problem Statement
-The problem statement for this project can be found on Kaggle.
+The problem statement for this project can be found on [Kaggle](https://www.kaggle.com/competitions/playground-series-s3e16/data).
 
 ### Solution
 1. Start by loading and cleaning the dataset. Fortunately, the data was already clean, and I only needed to convert the categorical 'SEX' column into a numerical format.
