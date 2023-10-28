@@ -13,7 +13,7 @@ The problem statement for this project can be found on [Kaggle](https://www.kagg
 6. Use the Mean Absolute Error (MAE) as the cost function, as required by Kaggle. Achieved a test score of approximately 1.47567.
 
 ### Access
-The full code and dataset are available on GitHub.
+The full code and dataset are available on [Regression with a Crab Age Dataset](./Regression with a Crab Age Dataset).
 
 ## Binary Classification with a Software Defects Dataset
 
@@ -30,4 +30,4 @@ The problem statement for this project can be found on [Kaggle](https://www.kagg
 I encountered challenges in visualizing the data effectively, which limited my ability to gain insights and perform feature engineering.
 
 ### Access
-The full code and dataset are available on GitHub.
+The full code and dataset are available on [Regression with a Crab Age Dataset](./Regression with a Crab Age Dataset).
