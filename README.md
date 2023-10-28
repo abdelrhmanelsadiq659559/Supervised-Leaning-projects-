@@ -1,6 +1,4 @@
-# Supervised-Leaning-projects-
-
-# Supervised Learning Projects
+# Supervised-Leaning-projects
 
 ## Regression with a Crab Age Dataset
 ### Problem Statement
