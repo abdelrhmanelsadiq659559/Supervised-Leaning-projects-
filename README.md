@@ -18,7 +18,7 @@ The full code and dataset are available on GitHub.
 ## Binary Classification with a Software Defects Dataset
 
 ### Problem Statement
-The problem statement for this project can be found on Kaggle.
+The problem statement for this project can be found on [Kaggle](https://www.kaggle.com/competitions/playground-series-s3e23).
 
 ### Solution
 1. Start by loading and cleaning the dataset.
